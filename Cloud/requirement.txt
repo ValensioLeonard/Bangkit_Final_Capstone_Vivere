@@ -1,1 +1,6 @@
+#for leo's notebook
+Flask==1.1.2
+Keras==2.4.3
 
+#for dennis's notebook
+Flask==1.1.2
