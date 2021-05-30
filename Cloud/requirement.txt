@@ -1,6 +1,13 @@
-#for leo's notebook
-Flask==1.1.2
+Flask==1.1.4
 Keras==2.4.3
-
-#for dennis's notebook
-Flask==1.1.2
+tensorflow==2.4.1
+tensorflow-gpu==2.4.1
+numpy
+os
+tensorflow_hub
+matplotlib.pyplot
+tqdm
+shutil
+re
+werkzeug.utils
+urllib.request
