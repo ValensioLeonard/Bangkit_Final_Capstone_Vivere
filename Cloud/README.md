@@ -1,3 +1,4 @@
+# MAKE API CONFIGURATION
 link for API : https://newagent-9pky.ue.r.appspot.com/predict
 gambar yang dipassing harus bernama variabel 'file'
 contoh :
