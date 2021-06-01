@@ -1,4 +1,6 @@
 # MAKE API CONFIGURATION
+
+## 1. Make API configuration with flask at main.py
 link for API : https://newagent-9pky.ue.r.appspot.com/predict
 gambar yang dipassing harus bernama variabel 'file'
 contoh :
