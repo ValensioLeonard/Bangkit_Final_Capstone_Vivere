@@ -45,14 +45,10 @@ def index():
 def upload_image():
   if request.method == 'POST':
     f = request.files['file']
-    # file_path = secure_filename(f.filename)
-    # f.save(file_path)
 
     #make prediction
-    # preds = model_predict(file_path, model)
     preds = model_predict(f, model)
     return preds
 
 if __name__ == '__main__':
-    # app.debug = True
     app.run(debug=True)
