@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oval.xml.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\drawable\\oval.xml"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_tutorial.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\drawable-v24\\bg_tutorial.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_dcd.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\drawable-v24\\logo_dcd.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_home.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\drawable-v24\\bg_home.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pict_selection.xml.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\layout\\activity_pict_selection.xml"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tutorial.xml.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\layout\\activity_tutorial.xml"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_result.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\drawable-v24\\bg_result.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash_screen.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\drawable-v24\\splash_screen.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tutorial_pic.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\drawable-v24\\tutorial_pic.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_splash_screen.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\drawable-v24\\bg_splash_screen.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Bangkit\\Capstone\\DentalCariesDetection\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
