@@ -20,9 +20,10 @@ gcloud app browse
 ```
 
 ### THE LINK
-link for API : https://newagent-9pky.ue.r.appspot.com/predict
+link for API : https://inspired-terra-314703.et.r.appspot.com/predict
 
 ## The image must be passing with the 'file' name.
 
 # example :
-![image](https://user-images.githubusercontent.com/59119597/120305887-7b87a880-c2fb-11eb-898d-6fd6d116088d.png)
+![image](https://user-images.githubusercontent.com/59119597/120415760-47a59500-c386-11eb-9e26-7c14a0cdcc11.png)
+
