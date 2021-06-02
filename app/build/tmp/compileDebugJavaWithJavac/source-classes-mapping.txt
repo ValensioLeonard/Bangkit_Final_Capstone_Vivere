@@ -1,2 +1,0 @@
-com/dicoding/dentalcariesdetection/BuildConfig.java
- com.dicoding.dentalcariesdetection.BuildConfig
