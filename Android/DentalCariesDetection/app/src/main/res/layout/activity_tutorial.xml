@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="32dp"
+    android:background="@drawable/bg_tutorial"
+    tools:context=".Tutorial">
+
+    <TextView
+        android:id="@+id/how_to_take"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="@string/how_to_take_picture" />
+
+    <TextView
+        android:id="@+id/smile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:text="@string/smile_1"/>
+
+    <ImageView
+        android:id="@+id/tutorial"
+        android:src="@drawable/tutorial_pic"
+        android:layout_marginTop="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:contentDescription="@string/todo" />
+
+    <Button
+        android:id="@+id/btn_continue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/oval"
+        android:text="@string/continue_"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+
+</LinearLayout>

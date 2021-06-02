@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DentalCariesDetection</string>
+    <string name="hi_">Hi!</string>
+    <string name="greeting">Do you know if your teeth are healthy or not? Lets check it out now!</string>
+    <string name="start">Start!</string>
+    <string name="how_to_take_picture">How took take the picture</string>
+    <string name="smile_1">Smile! and show us your teeth </string>
+    <string name="continue_">Continue</string>
+    <string name="camera_">Camera</string>
+    <string name="gallery_">Gallery</string>
+    <string name="use_this_image">Use this image?</string>
+    <string name="todo">TODO</string>
+</resources>
