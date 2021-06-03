@@ -1,3 +1,6 @@
+CLOUD - DENTAL CARIES DETECTION
+By VIVERE (B21-CAP0095) for Bangkit Capstone Project 2021
+
 # MAKE API CONFIGURATION
 
 ### 1. Make API configuration with flask at main.py
@@ -20,9 +23,10 @@ gcloud app browse
 ```
 
 ### THE LINK
-link for API : https://newagent-9pky.ue.r.appspot.com/predict
+link for API : https://inspired-terra-314703.et.r.appspot.com/predict
 
 ## The image must be passing with the 'file' name.
 
 # example :
-![image](https://user-images.githubusercontent.com/59119597/120305887-7b87a880-c2fb-11eb-898d-6fd6d116088d.png)
+![image](https://user-images.githubusercontent.com/59119597/120569260-c01c5c80-c43f-11eb-8fcc-bc6704d015d2.png)
+
