@@ -4,7 +4,7 @@ The development of the machine learning model in this project was done on Google
 
 To replicate the steps in the notebook, you will need the teeth dataset for the model training purposes. 
 
-Our team collected images from Google with "[Caries]"(https://drive.google.com/drive/u/1/folders/1IL0Anoxw_7Y2V2zFRudvbuzhjPmFV07O) and "[Health Teeth]"(https://drive.google.com/drive/u/1/folders/1LCD6Ijzb5waSAdM51o_xAspucnGce6hk) keywords. 
+Our team collected images from Google with [Caries](https://drive.google.com/drive/u/1/folders/1IL0Anoxw_7Y2V2zFRudvbuzhjPmFV07O) and [Health Teeth](https://drive.google.com/drive/u/1/folders/1LCD6Ijzb5waSAdM51o_xAspucnGce6hk) keywords. 
 
 
 ## Preprocessing on the dataset
