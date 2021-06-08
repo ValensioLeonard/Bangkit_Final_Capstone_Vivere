@@ -1,5 +1,6 @@
 import cv2
 import io
+import os
 import numpy as np
 from numpy import asfarray
 import tensorflow as tf
@@ -23,7 +24,6 @@ model.make_predict_function()          # Necessary
 
 def model_predict(img_path, model):
     img = img_path
-
     x = cv2.imdecode(np.fromstring(img.read(), np.uint8), cv2.IMREAD_UNCHANGED)
     x = cv2.resize(x,(224,224))
     x = np.expand_dims(x, axis=0)
@@ -31,22 +31,22 @@ def model_predict(img_path, model):
 
     preds = model.predict(images)
     if preds[0] > 0.5:
-      return "Gigi sehat."
+      # return jsonify({"message": "Gigi sehat."})
+      return "Gigi Sehat."
     else:
+      return jsonify({"message": "Gigi Karies."})
       return "Gigi Karies."
+
 
 @app.route('/')
 def index():
-  return """
-          Application is working
-  """
+  return render_template("upload.html")
+
 
 @app.route('/predict', methods=['POST', 'GET'])
-def upload_image():
+def predict():
   if request.method == 'POST':
     f = request.files['file']
-
-    #make prediction
     preds = model_predict(f, model)
     return preds
 
