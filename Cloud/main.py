@@ -31,11 +31,11 @@ def model_predict(img_path, model):
 
     preds = model.predict(images)
     if preds[0] > 0.5:
-      # return jsonify({"message": "Gigi sehat."})
-      return "Gigi Sehat."
+      return jsonify({"message": "Gigi sehat."})
+      # return render_template("no.html")
     else:
       return jsonify({"message": "Gigi Karies."})
-      return "Gigi Karies."
+      # return render_template("yes.html")
 
 
 @app.route('/')

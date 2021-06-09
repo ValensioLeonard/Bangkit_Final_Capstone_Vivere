@@ -1,9 +1,56 @@
 <html>
-   <body>
-      <form action = "https://newagent-9pky.ue.r.appspot.com/predict" method = "POST" 
-         enctype = "multipart/form-data">
-         <input type = "file" name = 'file' />
-         <input type = "submit"/>
-      </form>   
-   </body>
+
+
+<head>
+    <title>Dental Caries</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+
+<body style="background: #FFFFB0; align-content: center; align-items: center">
+    <div class="container" style="background: #CDF7FF">
+        <h2>
+            Dental Caries
+        </h2>
+
+        <section id="cover" class="min-vh-100">
+
+            <!-- <div class="container-fluid" style="background: #6B94B0"></div> -->
+            <ul class="nav nav-tabs text-center">
+                <li class="nav-item">
+                    <a class="nav-link active" href="/" style="background: #9BC4E2">Active</a>
+                </li>
+            </ul>
+            <div id="cover-caption" style="background: #9BC4E2">
+                <div class="container">
+                    <div class="row text-white">
+                        <div class="col-xl-5 col-lg-6 col-md-8 col-sm-10 mx-auto text-center form p-4">
+                            <br>
+                            <br>
+                            <form action="https://newagent-9pky.ue.r.appspot.com/predict" method="POST" enctype="multipart/form-data" class="form-inline" style="align-items: center">
+                                <input type="file" name='file' />
+                                <input type="submit" />
+                            </form>
+                            <br>
+                            <br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    </div>
+    <!-- <div class="container-fluid" style="background: #6B94B0"> -->
+
+    </div>
+
+
+
+</body>
+
 </html>
