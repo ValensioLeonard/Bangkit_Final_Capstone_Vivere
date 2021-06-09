@@ -8,64 +8,54 @@
     android:layout_margin="16dp"
     tools:context=".PictSelection">
 
-    <LinearLayout
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:gravity="center">
-
-        <Button
-            android:id="@+id/btn_camera"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="@drawable/oval_light"
-            android:layout_marginEnd="4dp"
-            android:textStyle="bold"
-            android:textColor="@color/white"
-            android:textSize="18sp"
-            android:text="@string/camera_" />
-
-        <Button
-            android:id="@+id/btn_gallery"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="@drawable/oval_light"
-            android:layout_marginStart="4dp"
-            android:textStyle="bold"
-            android:textColor="@color/white"
-            android:textSize="18sp"
-            android:text="@string/gallery_" />
-    </LinearLayout>
+        android:text="@string/use_this_image"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
 
     <ImageView
         android:id="@+id/img_input"
         android:layout_width="match_parent"
         android:layout_height="504dp"
-        android:layout_marginTop="4dp"
-        android:layout_marginBottom="4dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
         android:contentDescription="@string/todo"
         android:scaleType="fitCenter"
-        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+        android:src="@drawable/add_photo" />
 
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="@color/black"
-        android:textSize="20sp"
-        android:textAlignment="center"
-        android:layout_marginBottom="8dp"
-        android:text="@string/use_this_image"/>
+        android:gravity="center"
+        android:orientation="horizontal">
 
-    <Button
-        android:id="@+id/btn_continue_to_result"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@drawable/oval"
-        android:text="@string/continue_"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        android:textColor="@color/white"/>
+        <Button
+            android:id="@+id/btnRetake"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/oval_light"
+            android:text="@string/retake"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnContinueResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/oval"
+            android:text="@string/continue_"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
 
 </LinearLayout>

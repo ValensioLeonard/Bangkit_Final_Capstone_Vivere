@@ -10,4 +10,7 @@
     <color name="cyan_blue">#6B94B0</color>
     <color name="pale_cerulean">#9BC4E2</color>
     <color name="cyan">#CDF7FF</color>
+    <color name="ucrop_color_toolbar">@color/cyan_blue</color>
+    <color name="ucrop_color_statusbar">@color/pale_cerulean</color>
+    <color name="ucrop_color_widget_active">@color/cyan_blue</color>
 </resources>
