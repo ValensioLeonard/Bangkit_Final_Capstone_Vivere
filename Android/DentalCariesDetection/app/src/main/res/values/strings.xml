@@ -6,8 +6,22 @@
     <string name="how_to_take_picture">How took take the picture</string>
     <string name="smile_1">Smile! and show us your teeth </string>
     <string name="continue_">Continue</string>
-    <string name="camera_">Camera</string>
-    <string name="gallery_">Gallery</string>
     <string name="use_this_image">Use this image?</string>
     <string name="todo">TODO</string>
+    <string name="retake">Retake</string>
+    <string name="gigi_sehat">Gigi Sehat</string>
+    <string name="gigi_karies">Gigi Karies</string>
+    <string name="suggestion">Suggestions for you</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="try_again">Try Again</string>
+    <string name="good_results">Your teeth are healthy!</string>
+    <string name="good_1">Tetap jaga kesehatan gigi anda dengan cara :</string>
+    <string name="good_2">1. Rajin sikat gigi pagi, siang dan malam sebelum tidur</string>
+    <string name="good_3">2. Bersihkan sela gigi dengan benang gigi</string>
+    <string name="good_4">3. Berkumur dengan obat kumur (mouthwash) secara rutin</string>
+    <string name="bad_results">We found caries on your teeth!</string>
+    <string name="bad_1">Sebelum karies pada gigi anda semakin parah, sebaiknya :</string>
+    <string name="bad_2">1. Kurangi makanan dan minuman manis</string>
+    <string name="bad_3">2. Sikat gigi dan gunakan mouthwash setelah makan</string>
+    <string name="bad_4">3. Konsultasikan kepada dokter gigi agar mendapatkan penanganan lebih lanjut</string>
 </resources>

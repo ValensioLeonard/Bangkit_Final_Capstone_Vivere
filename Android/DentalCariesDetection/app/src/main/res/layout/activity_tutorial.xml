@@ -7,10 +7,9 @@
     android:gravity="center"
     android:padding="32dp"
     android:background="@drawable/bg_tutorial"
-    tools:context=".Tutorial">
+    tools:context=".TutorialActivity">
 
     <TextView
-        android:id="@+id/how_to_take"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="20sp"
@@ -19,7 +18,6 @@
         android:text="@string/how_to_take_picture" />
 
     <TextView
-        android:id="@+id/smile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
@@ -28,7 +26,6 @@
         android:text="@string/smile_1"/>
 
     <ImageView
-        android:id="@+id/tutorial"
         android:src="@drawable/tutorial_pic"
         android:layout_marginTop="0dp"
         android:layout_width="match_parent"
@@ -36,7 +33,7 @@
         android:contentDescription="@string/todo" />
 
     <Button
-        android:id="@+id/btn_continue"
+        android:id="@+id/btnTutorialContinue"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/oval"
